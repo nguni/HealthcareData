@@ -129,6 +129,7 @@ Enhance Discharge Planning and Post-Discharge Support in Pediatrics to reduce ho
 Strengthen Follow-up Care and implement Chronic Disease Management programs.
 
 ## **8. Patient Satisfaction**
+![image](https://github.com/user-attachments/assets/78f7d445-8c71-46c1-91a3-9378208c778c)
 
 **Insight**: The average patient satisfaction score is 5.43 out of 10.
 
