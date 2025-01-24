@@ -1,4 +1,8 @@
-# HealthcareData
+# Healthcare Data Analysis
+
+## Healthcare Data Analysis Summary
+
+This analysis uses a fictional hospital dataset, generated through Python, containing over 1,000 rows of data on treatment costs, patient demographics, departmental operations, and other healthcare metrics. The aim is to assess hospital performance and identify opportunities for improvement across several key areas.
 ## Source of Data
 
 The dataset used in this analysis was created based on a fictional hospital scenario and generated using Python. It includes various metrics such as treatment costs, patient demographics, departmental data, and other healthcare-related information to simulate real-world hospital operations. The dataset contains over 1,000 rows, ensuring a comprehensive analysis of the hospital's performance.
